@@ -1,0 +1,10 @@
+{
+  "id": "10001",
+  "key": "DSEAP-1",
+  "fields": {
+    "summary": "Fix login bug",
+    "status": { "name": "In Progress" },
+    "assignee": { "displayName": "Justus Dahunsi" },
+    "created": "2025-08-12T08:00:00.000+0000"
+  }
+}
